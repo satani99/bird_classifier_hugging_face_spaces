@@ -1,4 +1,4 @@
-# bird_classifier_hugging_face_spaces
+# bird_classifier_huggingface_spaces
 
 https://huggingface.co/spaces/satani/bird_classifier
 
